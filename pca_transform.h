@@ -1,6 +1,6 @@
 #include <vector>
 #include <cstdlib>
-#include <Eigen/Dense> // -I/usr/local/include/eigen3
+#include <Eigen/Dense>
 
 
 class PCA_Transform
